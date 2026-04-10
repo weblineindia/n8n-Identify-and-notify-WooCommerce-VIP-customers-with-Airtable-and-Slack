@@ -36,7 +36,7 @@ This workflow is ideal for:
 
 You will need:
 
-*   A running **n8n instance** (cloud or self-hosted)
+*   A **[n8n account](https://n8n.partnerlinks.io/om1efg2qgvwi)** (cloud or self-hosted)
 *   A **WooCommerce store** with API keys
 *   A **Slack workspace** with API permissions
 *   An **Airtable Base** to store VIP customers
